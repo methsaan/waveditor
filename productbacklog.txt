@@ -1,0 +1,38 @@
+===================================================
+BUG1 - Check file format - Methsaan Wickramasinghe
+Description: Ensure header corresponds to .wav
+Status: Not Done
+Estimated time: 2 days
+===================================================
+
+===================================================
+BUG2 - Increase/Decrease volume - Methsaan Wickramasinghe
+Description: Create function to increase or decrease
+             volume in wav file
+Status: Not Done
+Estimated time: 4 days
+===================================================
+
+===================================================
+BUG3 - Pitch up/down with speed change - Methsaan Wickramasinghe
+Description: Create function to pitch up or pitch down
+             in wav file
+Status: Not Done
+Estimated time: 2 days
+===================================================
+
+===================================================
+BUG4 - Pitch up/down without speed change - Methsaan Wickramasinghe
+Description: Modify pitch function to include no speed
+             change option
+Status: Not Done
+Estimated time: 4 days
+===================================================
+
+===================================================
+BUG5 - Cut and Merge - Methsaan Wickramasinghe
+Description: Create function to cut a wav file, create
+             function to merge multiple wav files
+Status: Not Done
+Estimated time: 2 days
+===================================================
